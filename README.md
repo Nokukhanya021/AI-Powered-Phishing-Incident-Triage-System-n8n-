@@ -18,7 +18,7 @@ An automated pipeline that ingests suspicious emails, analyses them using AI, an
 5. Logs results to Google Sheets automatically
 
  Evidence 
- 1.  Workflow editor - view of the “Simple Phishing Incident Triage Workflow” with nodes for ingesting, parsing, analyzing, and logging. ![ Workflow editor](mcp_server_setup.png)
+ 1.  Workflow editor - view of the “Simple Phishing Incident Triage Workflow” with nodes for ingesting, parsing, analyzing, and logging. ![ Workflow editor](triage_workflow.png)
  2.  Google Sheets entry - showing the phishing email analysis (timestamp, sender, subject, risk score, severity, etc.). ![Google Sheets entry](subfinder_scan.png) 
 
 ## Skills Demonstrated
