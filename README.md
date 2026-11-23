@@ -5,7 +5,7 @@ An automated pipeline that ingests suspicious emails, analyses them using AI, an
 
 ##  Tools & Technologies
 - n8n
-- Claude AI
+- Gemini
 - Google Sheets API
 - Python
 - Webhooks
